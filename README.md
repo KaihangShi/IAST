@@ -7,7 +7,6 @@ pure adsorption isotherm data.
 
 %=========================================================================
 %  How to use:
-%
 %  1. Fit the pure adsorption/desorption isotherms using the proper model 
 %  2. Modified the 'Input parameters' section if necessary and enter
 %     the fitted isotherm model parameters for each component
