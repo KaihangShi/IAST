@@ -5,12 +5,10 @@ The IAST is a theory to predict the binary mixture adsorption isotherms based on
 pure adsorption isotherm data.
 
 
-%=========================================================================
-%  How to use:
-%  1. Fit the pure adsorption/desorption isotherms using the proper model 
-%  2. Modified the 'Input parameters' section if necessary and enter
-%     the fitted isotherm model parameters for each component
-%  3. Press 'Run' button in MATLAB. Final results will be stored in the matrix 'sol'.
-%
-%  Note: working units are pressure [kPa], specific adsorbed amount [mmol/g]
-%=========================================================================
+How to use:
+1. Fit the pure adsorption/desorption isotherms using the proper model 
+2. Modified the 'Input parameters' section if necessary and enter the fitted isotherm model parameters for each component
+3. Press 'Run' button in MATLAB. Final results will be stored in the matrix 'sol'.
+
+Note: working units are pressure [kPa], specific adsorbed amount [mmol/g]
+
