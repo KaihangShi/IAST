@@ -1,9 +1,9 @@
-This is a MATLAB code for Ideal Adsorbed Solution Theory (IAST) calculations. 
-The IAST applied in this code is based on the original model by Myer & Prausnitz (1965)
+This is a MATLAB code for the Ideal Adsorbed Solution Theory (IAST) calculation. 
+The IAST applied here is based on the original model by Myer & Prausnitz (1965)
 
-The IAST is a theory to predict the binary mixture adsorption isotherms based on the 
-pure adsorption isotherm data.
+The IAST is a theory to predict the binary mixture adsorption isotherms based on the pure adsorption isotherm data.
 
+----------
 
 How to use:
 1. Fit the pure adsorption/desorption isotherms using the proper model 
