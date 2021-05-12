@@ -12,3 +12,7 @@ How to use:
 
 Note: working units are pressure [kPa], specific adsorbed amount [mmol/g]
 
+----------
+Reference:
+https://pubs.rsc.org/en/content/articlelanding/2020/TA/C9TA11701F#!divAbstract
+
